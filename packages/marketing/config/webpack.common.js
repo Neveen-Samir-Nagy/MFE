@@ -1,4 +1,4 @@
-import HTMLWebpackPlugin from 'html-webpack-plugin';
+const HTMLWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
     module: {
